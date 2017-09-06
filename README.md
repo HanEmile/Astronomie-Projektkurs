@@ -25,5 +25,35 @@
 - Planetarium Jena ([website](http://www.planetarium-jena.de/))
 - Observatorium Aachen ([wikipedia](https://de.wikipedia.org/wiki/Volkssternwarte_Aachen), [website](https://www.sternwarte-aachen.de/))
 - DLR Köln ([wikipedia](https://en.wikipedia.org/wiki/German_Aerospace_Center), [website](http://www.dlr.de/dlr/en/desktopdefault.aspx/tabid-10258/))
-- Leonard Rapp ([Rexus@Twitter](https://twitter.com/viper_rexus))
+- Leonard Rapp ([Rexus@Twitter](https://twitter.com/viper_rexus)) (13.09)
 - Cosmic Day
+
+---
+
+##### Current Rovers on Mars:
+
+[Home](https://mars.nasa.gov/mer/home/)
+[Overview](https://mars.nasa.gov/mer/overview/)
+[Where](https://mars.nasa.gov/mer/mission/traverse_maps.html)
+
+---
+
+### Thar'sche Visionen:
+
+"Aus Kuhscheiße Raketentreibstoff herstellen"
+
+---
+
+### JUFO Projekte
+
+- "Die Grüne Rakete"
+- "Thermik" ([/r/datasets](https://www.reddit.com/r/datasets/))
+
+---
+
+### Thar Erinnern:
+
+##### Stand (06.09.17)
+
+- Cosmic Day
+- Master Classes
