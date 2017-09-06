@@ -17,6 +17,7 @@
 - Was sollen die nächsten machen
 - eigene Beobachtungen
 - zugehöriges / nötiges Fachwissen
+- Fachliteratur sammeln ([Stepen Hawking](http://www.hawking.org.uk/books.html))
 
 ### Exkursionen
 - Planetarium Bochum ([website](http://www.planetarium-bochum.de/))
@@ -25,3 +26,4 @@
 - Observatorium Aachen ([wikipedia](https://de.wikipedia.org/wiki/Volkssternwarte_Aachen), [website](https://www.sternwarte-aachen.de/))
 - DLR Köln ([wikipedia](https://en.wikipedia.org/wiki/German_Aerospace_Center), [website](http://www.dlr.de/dlr/en/desktopdefault.aspx/tabid-10258/))
 - Leonard Rapp ([Rexus@Twitter](https://twitter.com/viper_rexus))
+- Cosmic Day
