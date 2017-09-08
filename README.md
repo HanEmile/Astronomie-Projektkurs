@@ -2,21 +2,47 @@
 
 ### Projekte
 - Planspiel Mission
-- 32 / 2D Visualisierung ([Blender](https://www.blender.org))
+    - Spirit / Opportunity
+    
+- Visualisierung
+    - Allgemein ([Blender](https://www.blender.org))
+    - 2D
+    - 3D ([link](https://github.com/hanemile/Heidelberg))
+    
 - Sternentafel
+
 - Urknall ([wikipedia](https://de.wikipedia.org/wiki/Urknall))
+
 - Dunkle Materie ([wikipedia](https://de.wikipedia.org/wiki/Dunkle_Materie))
+
 - Messtechniken
+
 - Eigene Versuche z.B. ISS ([Cubesats ](https://en.wikipedia.org/wiki/CubeSat))
+
 - Motorisierung der Teleskope
+    - Fixstern 
+
 - Schwarze Löcher ([wikipedia](https://de.wikipedia.org/wiki/Schwarzes_Loch))
+
 - Gravitations Wellen ([wikipedia](https://de.wikipedia.org/wiki/Gravitationswelle))
 
 ### Aufgaben
 - Teleskope fit machen
+  - Wo hinstellen?
+  - Linsen
+  - Objektive
+  - Camera
+  
 - Was sollen die nächsten machen
+  - siehe Projekte
+
 - eigene Beobachtungen
+  - (Sterne Suchen [/r/Astronomy](https://www.reddit.com/r/Astronomy/))
+
 - zugehöriges / nötiges Fachwissen
+  - Mathias Bartelman Einführung
+  - Stephen Hawking
+
 - Fachliteratur sammeln ([Stepen Hawking](http://www.hawking.org.uk/books.html))
 
 ### Exkursionen
@@ -48,12 +74,3 @@
 
 - "Die Grüne Rakete"
 - "Thermik" ([/r/datasets](https://www.reddit.com/r/datasets/))
-
----
-
-### Thar Erinnern:
-
-##### Stand (06.09.17)
-
-- Cosmic Day
-- Master Classes
