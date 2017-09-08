@@ -2,7 +2,15 @@
 
 ### Projekte
 - Planspiel Mission
+	- Unterschiede Mars / Erde
+
     - Spirit / Opportunity
+    - ([NASA Mars-One Roadmap](http://www.mars-one.com/mission/roadmap))
+    - ([Mars 500 (Simulation)](https://en.wikipedia.org/wiki/MARS-500))
+	
+	- Elon Musk / SpaceX Colonize Mars 
+		- [Slides](https://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiEqtq3v5bWAhWDVBQKHUiGDI4QFggtMAE&url=http%3A%2F%2Fwww.spacex.com%2Fsites%2Fspacex%2Ffiles%2Fmars_presentation.pdf&usg=AFQjCNGQupwisIBtaR-jftA7XPbzCU46gw)
+		- [Presentation](https://www.youtube.com/watch?v=SPblvFBnEDk)
     
 - Visualisierung
     - Allgemein ([Blender](https://www.blender.org))
