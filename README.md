@@ -62,6 +62,14 @@
 [Overview](https://mars.nasa.gov/mer/overview/)
 [Where](https://mars.nasa.gov/mer/mission/traverse_maps.html)
 
+##### Current Missions:
+[Mars](https://de.wikipedia.org/wiki/Chronologie_der_Marsmissionen)
+[Merkur](https://de.wikipedia.org/wiki/Chronologie_der_Merkurmissionen)
+[Mond](https://de.wikipedia.org/wiki/Chronologie_der_Mondmissionen)
+[Venus](https://de.wikipedia.org/wiki/Chronologie_der_Venusmissionen)
+[Äußeres Sonnensystem](https://de.wikipedia.org/wiki/Chronologie_der_Missionen_ins_%C3%A4u%C3%9Fere_Sonnensystem)
+[Kometen / Asteroiden](https://de.wikipedia.org/wiki/Chronologie_der_Raumsonden_zu_Kometen_und_Asteroiden)
+
 ---
 
 ### Thar'sche Visionen:
