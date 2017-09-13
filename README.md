@@ -37,6 +37,10 @@
 
 - Gravitations Wellen ([wikipedia](https://de.wikipedia.org/wiki/Gravitationswelle))
 
+### Praktische Links
+
+- ([Planeten Übersicht](http://www.heavens-above.com/PlanetSummary.aspx?lat=0&lng=0&loc=Unspecified&alt=0&tz=UCT))
+
 ### Aufgaben
 - Teleskope fit machen
   - Wo hinstellen?
